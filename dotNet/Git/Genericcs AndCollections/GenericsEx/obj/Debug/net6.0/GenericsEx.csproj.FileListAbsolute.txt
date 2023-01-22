@@ -1,0 +1,30 @@
+E:\CDAC\9. .Net\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\GenericsEx.csproj.AssemblyReference.cache
+E:\CDAC\9. .Net\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\GenericsEx.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\9. .Net\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\GenericsEx.AssemblyInfoInputs.cache
+E:\CDAC\9. .Net\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\GenericsEx.AssemblyInfo.cs
+E:\CDAC\9. .Net\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\GenericsEx.csproj.CoreCompileInputs.cache
+E:\CDAC\9. .Net\Genericcs AndCollections\GenericsEx\bin\Debug\net6.0\GenericsEx.exe
+E:\CDAC\9. .Net\Genericcs AndCollections\GenericsEx\bin\Debug\net6.0\GenericsEx.deps.json
+E:\CDAC\9. .Net\Genericcs AndCollections\GenericsEx\bin\Debug\net6.0\GenericsEx.runtimeconfig.json
+E:\CDAC\9. .Net\Genericcs AndCollections\GenericsEx\bin\Debug\net6.0\GenericsEx.dll
+E:\CDAC\9. .Net\Genericcs AndCollections\GenericsEx\bin\Debug\net6.0\GenericsEx.pdb
+E:\CDAC\9. .Net\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\GenericsEx.dll
+E:\CDAC\9. .Net\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\refint\GenericsEx.dll
+E:\CDAC\9. .Net\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\GenericsEx.pdb
+E:\CDAC\9. .Net\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\GenericsEx.genruntimeconfig.cache
+E:\CDAC\9. .Net\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\ref\GenericsEx.dll
+E:\CDAC\9. .Net\Lab Practise\Genericcs AndCollections\GenericsEx\bin\Debug\net6.0\GenericsEx.exe
+E:\CDAC\9. .Net\Lab Practise\Genericcs AndCollections\GenericsEx\bin\Debug\net6.0\GenericsEx.deps.json
+E:\CDAC\9. .Net\Lab Practise\Genericcs AndCollections\GenericsEx\bin\Debug\net6.0\GenericsEx.runtimeconfig.json
+E:\CDAC\9. .Net\Lab Practise\Genericcs AndCollections\GenericsEx\bin\Debug\net6.0\GenericsEx.dll
+E:\CDAC\9. .Net\Lab Practise\Genericcs AndCollections\GenericsEx\bin\Debug\net6.0\GenericsEx.pdb
+E:\CDAC\9. .Net\Lab Practise\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\GenericsEx.csproj.AssemblyReference.cache
+E:\CDAC\9. .Net\Lab Practise\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\GenericsEx.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\9. .Net\Lab Practise\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\GenericsEx.AssemblyInfoInputs.cache
+E:\CDAC\9. .Net\Lab Practise\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\GenericsEx.AssemblyInfo.cs
+E:\CDAC\9. .Net\Lab Practise\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\GenericsEx.csproj.CoreCompileInputs.cache
+E:\CDAC\9. .Net\Lab Practise\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\GenericsEx.dll
+E:\CDAC\9. .Net\Lab Practise\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\refint\GenericsEx.dll
+E:\CDAC\9. .Net\Lab Practise\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\GenericsEx.pdb
+E:\CDAC\9. .Net\Lab Practise\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\GenericsEx.genruntimeconfig.cache
+E:\CDAC\9. .Net\Lab Practise\Genericcs AndCollections\GenericsEx\obj\Debug\net6.0\ref\GenericsEx.dll
