@@ -1,0 +1,15 @@
+E:\CDAC\9. .Net\Lab Practise\ActionFuncPredicate\bin\Debug\net6.0\ActionFuncPredicate.exe
+E:\CDAC\9. .Net\Lab Practise\ActionFuncPredicate\bin\Debug\net6.0\ActionFuncPredicate.deps.json
+E:\CDAC\9. .Net\Lab Practise\ActionFuncPredicate\bin\Debug\net6.0\ActionFuncPredicate.runtimeconfig.json
+E:\CDAC\9. .Net\Lab Practise\ActionFuncPredicate\bin\Debug\net6.0\ActionFuncPredicate.dll
+E:\CDAC\9. .Net\Lab Practise\ActionFuncPredicate\bin\Debug\net6.0\ActionFuncPredicate.pdb
+E:\CDAC\9. .Net\Lab Practise\ActionFuncPredicate\obj\Debug\net6.0\ActionFuncPredicate.csproj.AssemblyReference.cache
+E:\CDAC\9. .Net\Lab Practise\ActionFuncPredicate\obj\Debug\net6.0\ActionFuncPredicate.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\9. .Net\Lab Practise\ActionFuncPredicate\obj\Debug\net6.0\ActionFuncPredicate.AssemblyInfoInputs.cache
+E:\CDAC\9. .Net\Lab Practise\ActionFuncPredicate\obj\Debug\net6.0\ActionFuncPredicate.AssemblyInfo.cs
+E:\CDAC\9. .Net\Lab Practise\ActionFuncPredicate\obj\Debug\net6.0\ActionFuncPredicate.csproj.CoreCompileInputs.cache
+E:\CDAC\9. .Net\Lab Practise\ActionFuncPredicate\obj\Debug\net6.0\ActionFuncPredicate.dll
+E:\CDAC\9. .Net\Lab Practise\ActionFuncPredicate\obj\Debug\net6.0\refint\ActionFuncPredicate.dll
+E:\CDAC\9. .Net\Lab Practise\ActionFuncPredicate\obj\Debug\net6.0\ActionFuncPredicate.pdb
+E:\CDAC\9. .Net\Lab Practise\ActionFuncPredicate\obj\Debug\net6.0\ActionFuncPredicate.genruntimeconfig.cache
+E:\CDAC\9. .Net\Lab Practise\ActionFuncPredicate\obj\Debug\net6.0\ref\ActionFuncPredicate.dll

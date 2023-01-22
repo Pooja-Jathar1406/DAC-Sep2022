@@ -1,0 +1,15 @@
+E:\CDAC\9. .Net\Lab Practise\AnonymMethodsAndLambda\bin\Debug\net6.0\AnonymMethodsAndLambda.exe
+E:\CDAC\9. .Net\Lab Practise\AnonymMethodsAndLambda\bin\Debug\net6.0\AnonymMethodsAndLambda.deps.json
+E:\CDAC\9. .Net\Lab Practise\AnonymMethodsAndLambda\bin\Debug\net6.0\AnonymMethodsAndLambda.runtimeconfig.json
+E:\CDAC\9. .Net\Lab Practise\AnonymMethodsAndLambda\bin\Debug\net6.0\AnonymMethodsAndLambda.dll
+E:\CDAC\9. .Net\Lab Practise\AnonymMethodsAndLambda\bin\Debug\net6.0\AnonymMethodsAndLambda.pdb
+E:\CDAC\9. .Net\Lab Practise\AnonymMethodsAndLambda\obj\Debug\net6.0\AnonymMethodsAndLambda.csproj.AssemblyReference.cache
+E:\CDAC\9. .Net\Lab Practise\AnonymMethodsAndLambda\obj\Debug\net6.0\AnonymMethodsAndLambda.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\9. .Net\Lab Practise\AnonymMethodsAndLambda\obj\Debug\net6.0\AnonymMethodsAndLambda.AssemblyInfoInputs.cache
+E:\CDAC\9. .Net\Lab Practise\AnonymMethodsAndLambda\obj\Debug\net6.0\AnonymMethodsAndLambda.AssemblyInfo.cs
+E:\CDAC\9. .Net\Lab Practise\AnonymMethodsAndLambda\obj\Debug\net6.0\AnonymMethodsAndLambda.csproj.CoreCompileInputs.cache
+E:\CDAC\9. .Net\Lab Practise\AnonymMethodsAndLambda\obj\Debug\net6.0\AnonymMethodsAndLambda.dll
+E:\CDAC\9. .Net\Lab Practise\AnonymMethodsAndLambda\obj\Debug\net6.0\refint\AnonymMethodsAndLambda.dll
+E:\CDAC\9. .Net\Lab Practise\AnonymMethodsAndLambda\obj\Debug\net6.0\AnonymMethodsAndLambda.pdb
+E:\CDAC\9. .Net\Lab Practise\AnonymMethodsAndLambda\obj\Debug\net6.0\AnonymMethodsAndLambda.genruntimeconfig.cache
+E:\CDAC\9. .Net\Lab Practise\AnonymMethodsAndLambda\obj\Debug\net6.0\ref\AnonymMethodsAndLambda.dll
