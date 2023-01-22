@@ -1,0 +1,15 @@
+E:\CDAC\9. .Net\Lab Practise\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.AssemblyReference.cache
+E:\CDAC\9. .Net\Lab Practise\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\9. .Net\Lab Practise\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfoInputs.cache
+E:\CDAC\9. .Net\Lab Practise\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfo.cs
+E:\CDAC\9. .Net\Lab Practise\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+E:\CDAC\9. .Net\Lab Practise\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.exe
+E:\CDAC\9. .Net\Lab Practise\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.deps.json
+E:\CDAC\9. .Net\Lab Practise\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.runtimeconfig.json
+E:\CDAC\9. .Net\Lab Practise\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.dll
+E:\CDAC\9. .Net\Lab Practise\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.pdb
+E:\CDAC\9. .Net\Lab Practise\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.dll
+E:\CDAC\9. .Net\Lab Practise\ExceptionHandling\obj\Debug\net6.0\refint\ExceptionHandling.dll
+E:\CDAC\9. .Net\Lab Practise\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.pdb
+E:\CDAC\9. .Net\Lab Practise\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.genruntimeconfig.cache
+E:\CDAC\9. .Net\Lab Practise\ExceptionHandling\obj\Debug\net6.0\ref\ExceptionHandling.dll

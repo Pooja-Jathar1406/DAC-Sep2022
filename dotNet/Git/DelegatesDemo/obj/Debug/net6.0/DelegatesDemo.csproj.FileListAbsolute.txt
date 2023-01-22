@@ -1,0 +1,15 @@
+E:\CDAC\9. .Net\Lab Practise\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.csproj.AssemblyReference.cache
+E:\CDAC\9. .Net\Lab Practise\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\9. .Net\Lab Practise\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.AssemblyInfoInputs.cache
+E:\CDAC\9. .Net\Lab Practise\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.AssemblyInfo.cs
+E:\CDAC\9. .Net\Lab Practise\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.csproj.CoreCompileInputs.cache
+E:\CDAC\9. .Net\Lab Practise\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.exe
+E:\CDAC\9. .Net\Lab Practise\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.deps.json
+E:\CDAC\9. .Net\Lab Practise\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.runtimeconfig.json
+E:\CDAC\9. .Net\Lab Practise\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.dll
+E:\CDAC\9. .Net\Lab Practise\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.pdb
+E:\CDAC\9. .Net\Lab Practise\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.dll
+E:\CDAC\9. .Net\Lab Practise\DelegatesDemo\obj\Debug\net6.0\refint\DelegatesDemo.dll
+E:\CDAC\9. .Net\Lab Practise\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.pdb
+E:\CDAC\9. .Net\Lab Practise\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.genruntimeconfig.cache
+E:\CDAC\9. .Net\Lab Practise\DelegatesDemo\obj\Debug\net6.0\ref\DelegatesDemo.dll
