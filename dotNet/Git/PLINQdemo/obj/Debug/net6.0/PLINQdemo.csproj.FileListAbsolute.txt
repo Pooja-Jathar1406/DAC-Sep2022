@@ -1,0 +1,15 @@
+E:\CDAC\9. .Net\Lab Practise\PLINQdemo\bin\Debug\net6.0\PLINQdemo.exe
+E:\CDAC\9. .Net\Lab Practise\PLINQdemo\bin\Debug\net6.0\PLINQdemo.deps.json
+E:\CDAC\9. .Net\Lab Practise\PLINQdemo\bin\Debug\net6.0\PLINQdemo.runtimeconfig.json
+E:\CDAC\9. .Net\Lab Practise\PLINQdemo\bin\Debug\net6.0\PLINQdemo.dll
+E:\CDAC\9. .Net\Lab Practise\PLINQdemo\bin\Debug\net6.0\PLINQdemo.pdb
+E:\CDAC\9. .Net\Lab Practise\PLINQdemo\obj\Debug\net6.0\PLINQdemo.csproj.AssemblyReference.cache
+E:\CDAC\9. .Net\Lab Practise\PLINQdemo\obj\Debug\net6.0\PLINQdemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\9. .Net\Lab Practise\PLINQdemo\obj\Debug\net6.0\PLINQdemo.AssemblyInfoInputs.cache
+E:\CDAC\9. .Net\Lab Practise\PLINQdemo\obj\Debug\net6.0\PLINQdemo.AssemblyInfo.cs
+E:\CDAC\9. .Net\Lab Practise\PLINQdemo\obj\Debug\net6.0\PLINQdemo.csproj.CoreCompileInputs.cache
+E:\CDAC\9. .Net\Lab Practise\PLINQdemo\obj\Debug\net6.0\PLINQdemo.dll
+E:\CDAC\9. .Net\Lab Practise\PLINQdemo\obj\Debug\net6.0\refint\PLINQdemo.dll
+E:\CDAC\9. .Net\Lab Practise\PLINQdemo\obj\Debug\net6.0\PLINQdemo.pdb
+E:\CDAC\9. .Net\Lab Practise\PLINQdemo\obj\Debug\net6.0\PLINQdemo.genruntimeconfig.cache
+E:\CDAC\9. .Net\Lab Practise\PLINQdemo\obj\Debug\net6.0\ref\PLINQdemo.dll

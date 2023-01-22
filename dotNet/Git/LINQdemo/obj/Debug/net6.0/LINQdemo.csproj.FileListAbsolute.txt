@@ -1,0 +1,15 @@
+E:\CDAC\9. .Net\Lab Practise\LINQdemo\bin\Debug\net6.0\LINQdemo.exe
+E:\CDAC\9. .Net\Lab Practise\LINQdemo\bin\Debug\net6.0\LINQdemo.deps.json
+E:\CDAC\9. .Net\Lab Practise\LINQdemo\bin\Debug\net6.0\LINQdemo.runtimeconfig.json
+E:\CDAC\9. .Net\Lab Practise\LINQdemo\bin\Debug\net6.0\LINQdemo.dll
+E:\CDAC\9. .Net\Lab Practise\LINQdemo\bin\Debug\net6.0\LINQdemo.pdb
+E:\CDAC\9. .Net\Lab Practise\LINQdemo\obj\Debug\net6.0\LINQdemo.csproj.AssemblyReference.cache
+E:\CDAC\9. .Net\Lab Practise\LINQdemo\obj\Debug\net6.0\LINQdemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\9. .Net\Lab Practise\LINQdemo\obj\Debug\net6.0\LINQdemo.AssemblyInfoInputs.cache
+E:\CDAC\9. .Net\Lab Practise\LINQdemo\obj\Debug\net6.0\LINQdemo.AssemblyInfo.cs
+E:\CDAC\9. .Net\Lab Practise\LINQdemo\obj\Debug\net6.0\LINQdemo.csproj.CoreCompileInputs.cache
+E:\CDAC\9. .Net\Lab Practise\LINQdemo\obj\Debug\net6.0\LINQdemo.dll
+E:\CDAC\9. .Net\Lab Practise\LINQdemo\obj\Debug\net6.0\refint\LINQdemo.dll
+E:\CDAC\9. .Net\Lab Practise\LINQdemo\obj\Debug\net6.0\LINQdemo.pdb
+E:\CDAC\9. .Net\Lab Practise\LINQdemo\obj\Debug\net6.0\LINQdemo.genruntimeconfig.cache
+E:\CDAC\9. .Net\Lab Practise\LINQdemo\obj\Debug\net6.0\ref\LINQdemo.dll
